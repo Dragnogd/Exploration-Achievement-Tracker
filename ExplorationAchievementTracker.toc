@@ -1,0 +1,28 @@
+## Interface: 80300
+## Notes: An addon for tracking exploration achievements.
+## Title:Exploration Achievement Tracker
+## Author: Whizzey
+## Version: 1.0.0
+## OptionalDeps: LibStub, CallbackHandler-1.0, LibDBIcon-1.0
+## SavedVariables: EATAchievementTrackerOptions, EATAchievementTrackerDebug, EATAchievementTrackerTracking
+
+EasternKingdoms\ElwynnForest.lua
+EasternKingdoms\RedridgeMountains.lua
+EasternKingdoms\Westfall.lua
+EasternKingdoms\Duskwood.lua
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+Libs\AltGameTooltip\AltGameTooltip.xml
+Libs\UTF8\utf8.lua
+Libs\UTF8\utf8data.lua
+Libs\MSA-DropDownMenu-1.0\MSA-DropDownMenu-1.0.lua
+
+Localization.lua
+Localization.enUS.lua
+
+Database.lua
+GUI.lua
+AchievementTrackerCore.lua
